@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "776799302806",
+    "firebase_url": "https://cenilandroid.firebaseio.com",
+    "project_id": "cenilandroid",
+    "storage_bucket": "cenilandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776799302806:android:9e85d0513711737c",
+        "android_client_info": {
+          "package_name": "id.cenil.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776799302806-rnfv36de8le2ul60vg4coj4v21upojcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.cenil.android",
+            "certificate_hash": "77cf47e07e0552d4d8fef14e8351bfa1dde24c80"
+          }
+        },
+        {
+          "client_id": "776799302806-ht3nbo38f28vvnr510e77tq3rqah8l7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32XBJhWLAsamlDYMJk9tDjk9Tg27x21Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776799302806-ht3nbo38f28vvnr510e77tq3rqah8l7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776799302806-i0fjhums8f8df9eun593malm252okigk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.cenil.CenilApp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776799302806:android:263cbc1f852806bf",
+        "android_client_info": {
+          "package_name": "id.cenil.busway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776799302806-bpb6r647vnbh71gflninvvt4el5ch5ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.cenil.busway",
+            "certificate_hash": "77cf47e07e0552d4d8fef14e8351bfa1dde24c80"
+          }
+        },
+        {
+          "client_id": "776799302806-ht3nbo38f28vvnr510e77tq3rqah8l7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32XBJhWLAsamlDYMJk9tDjk9Tg27x21Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776799302806-ht3nbo38f28vvnr510e77tq3rqah8l7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776799302806-i0fjhums8f8df9eun593malm252okigk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.cenil.CenilApp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
